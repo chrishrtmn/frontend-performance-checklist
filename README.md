@@ -1,4 +1,4 @@
-# frontend-performance-checklist
+# site-performance-checklist
 
 ## CSS
 
